@@ -1,13 +1,9 @@
-## Tampilan Aplikasi
+## 📸 Tampilan Aplikasi
 
-### Login
-![Login](assets/pengaduan-sekolah/login.png)
+### Admin
+![Dashboard](assets/dashboard_admin.png)
+![Data](assets/data_aspirasi.png)
 
-### Dashboard
-![Dashboard](assets/pengaduan-sekolah/dashboard.png)
-
-### Input Pengaduan
-![Form](assets/pengaduan-sekolah/data_aspirasi)
-
-### Data Pengaduan
-![Data](assets/pengaduan-sekolah/kelola_siswa.png)# pengaduan-sekolah
+### Siswa
+![Dashboard](assets/dashboard_siswa.png)
+![Input](assets/input_aspirasi.png)
