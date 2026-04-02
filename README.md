@@ -1,7 +1,7 @@
 ## Tampilan Aplikasi
 
 ### Login
-![Login](assets/pengaduan-sekolah/)
+![Login](assets/pengaduan-sekolah/login.jpg)
 
 ### Dashboard
 ![Dashboard](assets/pengaduan-sekolah/dashboard.png)
