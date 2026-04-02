@@ -4,10 +4,10 @@
 ![Login](assets/pengaduan-sekolah/login.png)
 
 ### Dashboard
-![Dashboard](assets/pengaduan_sekolah/dashboard.png)
+![Dashboard](assets/pengaduan-sekolah/dashboard.png)
 
 ### Input Pengaduan
-![Form](assets/pengaduan_sekolah/admin/data_aspirasi)
+![Form](assets/pengaduan-sekolah/data_aspirasi)
 
 ### Data Pengaduan
-![Data](assets/pengaduan_sekolah/admin/kelola_siswa.png)# pengaduan-sekolah
+![Data](assets/pengaduan-sekolah/kelola_siswa.png)# pengaduan-sekolah
