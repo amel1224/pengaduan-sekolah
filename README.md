@@ -1,7 +1,7 @@
 ## 📸 Tampilan Aplikasi
 
 ### Admin
-![Dashboard](assets/pengaduan-sekolah/dashboard.png)
+![Dashboard](assets/pengaduan-sekolah/admin:dashboard.png)
 ![Data](assets/pengaduan-sekolah/admin/data_aspirasi.png)
 
 ### Siswa
